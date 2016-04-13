@@ -1,0 +1,28 @@
+name: Shared Ideas
+favicon: null
+layout_spectrum: 0.7844710682984442
+typography_spectrum: 0.2050257318187505
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6739629281219095
+  lightness: 0.37842369079589844
+  saturation: 0.061399013036862016
+  rhythmicContrast: 0.8956539072096348
+purpose: []
